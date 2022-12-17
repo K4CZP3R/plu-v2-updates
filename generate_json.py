@@ -19,7 +19,7 @@ arguments = get_args()
 json_dict = {
     "version": f"v{arguments.version}",
     "notes": arguments.notes,
-    "pub_date": datetime.datetime.now().isoformat(),
+    "pub_date": datetime.datetime.now().isoformat() + "Z",
     "platforms": {}
 }
 
