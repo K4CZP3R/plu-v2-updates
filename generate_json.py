@@ -37,7 +37,7 @@ for arch in archs:
     print("Signature for", arch, sig)
     json_dict["platforms"][f"linux-{arch}"] = {
         "signature": sig,
-        "url": f"https://github.com/K4CZP3R/plu-v2-updates/blob/main/{package_path}"
+        "url": f"https://github.com/K4CZP3R/plu-v2-updates/raw/main/{package_path}"
     }
 
 print(repr(json.dumps(json_dict)))
