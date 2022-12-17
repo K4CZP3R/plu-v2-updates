@@ -1,0 +1,3 @@
+[submodule "plu-v2-web"]
+	path = plu-v2-web
+	url = https://github.com/K4CZP3R/plu-v2-web.git
