@@ -4,8 +4,8 @@
     "pub_date": "2020-06-22T19:25:57Z",
     "platforms": {
         "linux-aarch64": {
-            "signature": "",
-            "url": "https://github.com/lemarier/tauri-test/releases/download/v1.0.0/app.AppImage.tar.gz"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWXdCVlUyNzRHR0ZDUk8zSzFBdE80Tks3cHJ5VXB0dzM1Y3UrbkRiZzRNSjh0c0crT1htQnRORTBtUFRwRDNxS3JqNzVNZFUzd0VGUHhac0RyZHhzUEwySHpBaHJsY2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxMjgwMDAwCWZpbGU6cGx1LXYyLXdlYl8xLjAuMF9hYXJjaDY0LnRhci5negpWamk2TTFjZUh5TEFOTXpibnlDdE1jK0ZlYXI4ZG4zTTZseVNoTEhpeTFOTTdYRGVpUEJNVlNhKzMySkJrWEdPOTRjRzZDR1lkcm9wWEprMXZvVWVEUT09Cg==",
+            "url": "https://github.com/K4CZP3R/plu-v2-updates/raw/main/1.0.0/plu-v2-web_1.0.0_aarch64.tar.gz"
         }
     }
 }
