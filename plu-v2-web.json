@@ -1,7 +1,7 @@
 {
-    "version": "1.1.1",
-    "notes": "Handle updates via JS",
-    "pub_date": "2022-12-20T20:31:16.180318Z",
+    "version": "1.1.2",
+    "notes": "Handle updates via JS (test)",
+    "pub_date": "2022-12-20T20:32:16.180318Z",
     "platforms": {
         "linux-aarch64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWXdCVlUyNzRHR0xLRGJxWUl0dkhWOXJ3NURDL0Q0RWFvSXhhS1BjU1pJcklIbm5zejJyMXFRa1BFSDdLK29YS0N3SUEvRXlWVXAxTWNrYkRqNUE1a3p0YXIrS28vS0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxNTY0NjUxCWZpbGU6cGx1LXYyLXdlYl8xLjEuMV9hYXJjaDY0LnRhci5negpGVDNtZDJSVHE2ZkVmVzdIcjdWNDJGTGdjdHZuZ2QyNDY0OEg0UjlHd3EvNnA0VS9JYml0MjZSRGg5Z0NYWUQ3bzNpNjZVRm9SbytOU3prUmZ4N0lCUT09Cg==",
