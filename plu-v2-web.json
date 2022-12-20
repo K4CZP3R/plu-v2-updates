@@ -1,11 +1,11 @@
 {
-    "version": "v1.0.1",
-    "notes": "No notes",
-    "pub_date": "2022-12-17T17:48:44.043130Z",
+    "version": "v1.1.0",
+    "notes": "Added custom messages, made buttons bigger!",
+    "pub_date": "2022-12-20T20:07:38.109986Z",
     "platforms": {
         "linux-aarch64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWXdCVlUyNzRHR0pxM212anhJb1FUcjJlTkNlaTFQUUU5QVpsTTVFeVZRUjhhZFJnTDY2M2hhU2NLa3RYcmZNMU1nVnl0UWV4eGptRDRXRVo3aXdxMURBMWNDbG1CaXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxMjk1NzA1CWZpbGU6cGx1LXYyLXdlYl8xLjAuMV9hYXJjaDY0LnRhci5negp0TFNzOGZUeW42TmhZZUhsRGJnME9YQ3BNYlBOU2dLOWpldHViNVRMQ2k5dDduWmVhUUpkTnhrL0RYaXV3UUovc21kTVVua3hJbERkc0pmb1VwOEJDdz09Cg==",
-            "url": "https://github.com/K4CZP3R/plu-v2-updates/raw/main/builds/plu-v2-web/1.0.1/plu-v2-web_1.0.1_aarch64.tar.gz"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWXdCVlUyNzRHR0VHQlZ2SkhXZTlTM2RRTGw5dUIxVURnUTV5S2pqNmx6MUQwbGFUWEpSZHJVWjlwNUN3WU5MWUNjN0l6Q3NBM2VzMU9GMkw1Y04vNUhlNjNIMms1dEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxNTYzMTYxCWZpbGU6cGx1LXYyLXdlYl8xLjEuMF9hYXJjaDY0LnRhci5negpWZjhBR0lCbGVUL0NVNmtNcmhXREtCREJMckpjNS9OY3FxT3QwMVJYY2VNT1l5TFV2TzBtM1FrVEJ4U20xM09DdkZsSHl4RDl1b1ZjOGtmZ0QvOEZEUT09Cg==",
+            "url": "https://github.com/K4CZP3R/plu-v2-updates/raw/main/builds/plu-v2-web/1.1.0/plu-v2-web_1.1.0_aarch64.tar.gz"
         }
     }
 }
