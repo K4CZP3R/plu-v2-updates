@@ -41,3 +41,4 @@ for arch in archs:
     }
 
 print(repr(json.dumps(json_dict)))
+json.dump(json_dict, open(arguments.app + ".json", "w"))
