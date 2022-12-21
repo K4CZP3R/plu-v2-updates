@@ -1,11 +1,1 @@
-{
-    "version": "1.1.4",
-    "notes": "No notes provided.",
-    "pub_date": "2022-12-21T12:28:24.395717Z",
-    "platforms": {
-        "linux-aarch64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWXdCVlUyNzRHR053MzdleHREYkM0OFdVUkg5YkFjWXUvaVNKd25jOUs4dHYwSTZJTkp2RnNSUm0wdU1hakg5MTRDVkQxWVNsUmErVlZSdnZsR1c1QXhFRmVZMENZYlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxNjIyMDc2CWZpbGU6cGx1LXYyLXdlYl8xLjEuM19hYXJjaDY0LnRhci5negpSaVR3L0hqaVNNN1RBcnFWeERZSTMreDMrZzNQTzJudm9ic21WNEtEek8vYWhoU0NJa0JIcXNHNUNUZ1g1TjZlWTJRdExETVo0bnZoNE9raEhNY3pCQT09Cg==",
-            "url": "https://github.com/K4CZP3R/plu-v2-updates/raw/main/builds/plu-v2-web/1.1.3/plu-v2-web_1.1.3_aarch64.tar.gz"
-        }
-    }
-}
+{"version": "v1.1.5", "notes": "Fix WS problems", "pub_date": "2022-12-21T14:20:20.179215Z", "platforms": {"linux-aarch64": {"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWXdCVlUyNzRHR0w1bzg3ditFV01QZ2p1RFNEWHBQV3hkNE1SODFvT0Q1SVkvWWI5TGY1cHZ6WVpNbEdxWEV2elgySCtpek1JZmVralpjNEM1NVA1TFBvQlM0T2VVRlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxNjI4Nzk0CWZpbGU6cGx1LXYyLXdlYl8xLjEuNV9hYXJjaDY0LnRhci5negpPZklra2ZXbUl3bUk1eUtKbkMveEE4MkJLL0JwVUNuWnU2VWk4YlJWRFF5amV5cFA1TFdWOHMrRlUxb3YrYVBqN1p5WVZnYmxUenFuaHBsSGRQZWZBQT09Cg==", "url": "https://github.com/K4CZP3R/plu-v2-updates/raw/main/builds/plu-v2-web/1.1.5/plu-v2-web_1.1.5_aarch64.tar.gz"}}}
