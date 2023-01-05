@@ -1,1 +1,11 @@
-{"version": "1.1.7", "notes": "Fix messages not arriving.", "pub_date": "2022-12-23T22:22:34.497302Z", "platforms": {"linux-aarch64": {"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWXdCVlUyNzRHR0IreFdxVWxEcWJEdHlVM0JxYXllTXJ3SnRRcWxOby9zMzd3WHNmREp2UnVYMWlZSlpEZ3dmUmFvQStEV2dHTzY0SEcxRFFJTGlneXhmUmVLZGdDZUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcxODMwNTI2CWZpbGU6cGx1LXYyLXdlYl8xLjEuN19hYXJjaDY0LnRhci5negptY0xsTk9lT2JUZVpmeVJLQXVJV3o2UUJhZExXdmJORnU0dzBUdnNMV0NTK0ZwK0JJbzhFdTJUMzdudHJ2ODVzL3pWWStIUDFBNlkvZ1R5Mmhlc1JEQT09Cg==", "url": "https://github.com/K4CZP3R/plu-v2-updates/raw/main/builds/plu-v2-web/1.1.7/plu-v2-web_1.1.7_aarch64.tar.gz"}}}
+{
+    "version": "1.2.1",
+    "notes": "Add device settings",
+    "pub_date": "2023-01-05T01:05:54.845310Z",
+    "platforms": {
+        "linux-aarch64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWXdCVlUyNzRHR0VKQzNvZ0dpOUZGTEovQ3Y0Wm5ET0RSZWVrcFZXOXd1YWdPTmtTclk5Ym5VZElOZlZvWUNWUzNhR1N0Y2FkRzdsOE1IY1NzTVJDYmp0NUVmWG10MlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcyODc3MTIyCWZpbGU6cGx1LXYyLXdlYl8xLjIuMV9hYXJjaDY0LnRhci5negpVWmNqRVlTZFZ0UzNRVGk0cXhGVUhPOEh5VlJXQ0JaVFNOT1hVTm9DQ21iRWdTL3FHRFltenV1TTRhZ3U1ay9HRTZmMENQd2o3L3liNUo3Z2YzTEJBQT09Cg==",
+            "url": "https://github.com/K4CZP3R/plu-v2-updates/raw/main/builds/plu-v2-web/1.2.1/plu-v2-web_1.2.1_aarch64.tar.gz"
+        }
+    }
+}
