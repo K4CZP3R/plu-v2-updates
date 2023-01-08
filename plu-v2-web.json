@@ -1,11 +1,11 @@
 {
-    "version": "1.2.1",
-    "notes": "Add device settings",
-    "pub_date": "2023-01-05T01:05:54.845310Z",
+    "version": "1.3.0",
+    "notes": "Sketch mode! + small ui changes",
+    "pub_date": "2023-01-08T14:27:12.532448Z",
     "platforms": {
         "linux-aarch64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWXdCVlUyNzRHR0VKQzNvZ0dpOUZGTEovQ3Y0Wm5ET0RSZWVrcFZXOXd1YWdPTmtTclk5Ym5VZElOZlZvWUNWUzNhR1N0Y2FkRzdsOE1IY1NzTVJDYmp0NUVmWG10MlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcyODc3MTIyCWZpbGU6cGx1LXYyLXdlYl8xLjIuMV9hYXJjaDY0LnRhci5negpVWmNqRVlTZFZ0UzNRVGk0cXhGVUhPOEh5VlJXQ0JaVFNOT1hVTm9DQ21iRWdTL3FHRFltenV1TTRhZ3U1ay9HRTZmMENQd2o3L3liNUo3Z2YzTEJBQT09Cg==",
-            "url": "https://github.com/K4CZP3R/plu-v2-updates/raw/main/builds/plu-v2-web/1.2.1/plu-v2-web_1.2.1_aarch64.tar.gz"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWXdCVlUyNzRHR1BNV0VQN2lDVDYzMDRJTjUwZWc0d1BobmVkNFRUOHRrMldJWFVCN0l4WGIwUmk4ZlVRRVRmSmtCS21PRWw1cXBBZ3QvRjkzQ2VBRDZCOUFrR0dMM3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczMTg0Mzc0CWZpbGU6cGx1LXYyLXdlYl8xLjMuMF9hYXJjaDY0LnRhci5negpwdjFxWFhSWm5HUncwR1pENHduU2p6Rm9mZXpZa0kzVmtINERsSDQ5UHQ1Nzc5NEVZdGRhNHpmNjRZcFdoa1h6M1hJVVBVWjJTN3Yzd0xTOTM2dkRDUT09Cg==",
+            "url": "https://github.com/K4CZP3R/plu-v2-updates/raw/main/builds/plu-v2-web/1.3.0/plu-v2-web_1.3.0_aarch64.tar.gz"
         }
     }
 }
